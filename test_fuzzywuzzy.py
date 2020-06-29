@@ -4,6 +4,7 @@ import unittest
 import re
 import sys
 import pycodestyle
+import numpy
 
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
